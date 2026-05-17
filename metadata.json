@@ -1,0 +1,8 @@
+{
+  "name": "Lines App",
+  "description": "Conectando você à cidade. Informações em tempo real sobre trens e metrô.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
